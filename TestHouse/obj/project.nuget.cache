@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3RaPQCMHYV51HbEz9V0N2yOImWYW5CxBlD3qcUwxT28dQ0cyL4vGH9FxkVCyVj6vspg40E0uIU3vJbn8ImJSIA==",
+  "dgSpecHash": "wrPTHZLYv4+EDGruxFTu4rhrxJ5hKt1apHS80ilNSALAzNxD82nX0MtkJpN3dasjsObzi6pTf95cDcKZZiX5Lg==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\TestHouse\\TestHouse\\TestHouse.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Git\\TestHouse\\TestHouse\\TestHouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

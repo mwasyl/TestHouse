@@ -2,3 +2,6 @@ drugi commit
 Pierwszy commit
 
 fixxxxxx2
+
+fix commit
+

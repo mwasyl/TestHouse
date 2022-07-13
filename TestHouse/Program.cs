@@ -8,6 +8,7 @@ namespace TestHouse
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World Wojtek!");
+            Console.WriteLine("Hello World Lalalalalala!");
 
         }
     }

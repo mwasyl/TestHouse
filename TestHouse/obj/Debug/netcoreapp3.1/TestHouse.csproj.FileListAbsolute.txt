@@ -1,0 +1,14 @@
+C:\GIT\TestHouse\TestHouse\bin\Debug\netcoreapp3.1\TestHouse.exe
+C:\GIT\TestHouse\TestHouse\bin\Debug\netcoreapp3.1\TestHouse.deps.json
+C:\GIT\TestHouse\TestHouse\bin\Debug\netcoreapp3.1\TestHouse.runtimeconfig.json
+C:\GIT\TestHouse\TestHouse\bin\Debug\netcoreapp3.1\TestHouse.runtimeconfig.dev.json
+C:\GIT\TestHouse\TestHouse\bin\Debug\netcoreapp3.1\TestHouse.dll
+C:\GIT\TestHouse\TestHouse\bin\Debug\netcoreapp3.1\TestHouse.pdb
+C:\GIT\TestHouse\TestHouse\obj\Debug\netcoreapp3.1\TestHouse.csproj.AssemblyReference.cache
+C:\GIT\TestHouse\TestHouse\obj\Debug\netcoreapp3.1\TestHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\TestHouse\TestHouse\obj\Debug\netcoreapp3.1\TestHouse.AssemblyInfoInputs.cache
+C:\GIT\TestHouse\TestHouse\obj\Debug\netcoreapp3.1\TestHouse.AssemblyInfo.cs
+C:\GIT\TestHouse\TestHouse\obj\Debug\netcoreapp3.1\TestHouse.csproj.CoreCompileInputs.cache
+C:\GIT\TestHouse\TestHouse\obj\Debug\netcoreapp3.1\TestHouse.dll
+C:\GIT\TestHouse\TestHouse\obj\Debug\netcoreapp3.1\TestHouse.pdb
+C:\GIT\TestHouse\TestHouse\obj\Debug\netcoreapp3.1\TestHouse.genruntimeconfig.cache
